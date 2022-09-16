@@ -1,0 +1,29 @@
+body {
+    background: #fa8e47;
+ color: #fff;
+}
+h1 {
+    font-family: 'Combo', cursive;
+    Color:gray;
+   
+  }
+h2 {
+  Color:black;
+  font-family: 'Oswald', sans-serif;
+}
+
+a:hover {
+    color: red;
+}
+
+site-menu {
+   display: flex;
+   flex-direction: row;
+   justify-content: space-around; 
+}
+
+site-header {
+    display: flex;
+    justify-content: space-between;
+}
+
